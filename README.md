@@ -13,5 +13,3 @@ This repo contains my Excel practice files: PivotTables, Charts, and small datas
 - Power Query & Power BI basics  
 
 ---
-Stay tuned as I upload more files while learning!
-
